@@ -1,6 +1,6 @@
 from  django.urls import path
-from .views import api_view
+from . import views
 
 urlpatterns = [
-    path('media/', api_view)
+    path('', views.api_home)
 ]
