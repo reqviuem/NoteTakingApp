@@ -2,5 +2,6 @@ from  django.urls import path
 from . import views
 
 urlpatterns = [
-    path('', views.api_home)
+    path('save/', views.save),
+    path('list/', views.get_list)
 ]
