@@ -1,9 +1,9 @@
 # My Note
 
-This is a **bold** word and this is *italic*.
+This are a **bold** word and this is *italic*.
 
 ## Shopping List
-- Milk
+- Dilk
 - Eggs
 - Bread
 
