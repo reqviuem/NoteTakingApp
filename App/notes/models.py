@@ -3,4 +3,4 @@ from django.db import models
 # Create your models here.
 class Note(models.Model):
     title = models.CharField(max_length=255)
-    file = models.FileField(upload_to='media')
+    file = models.FileField(upload_to='')
